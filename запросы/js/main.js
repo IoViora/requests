@@ -10,3 +10,5 @@ GET - get data or smth
 /*
 json-server -w dg.json -p 8000
 */
+
+// gitgit
